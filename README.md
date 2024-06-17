@@ -27,10 +27,7 @@
   sudo apt install ffmpeg
   ```
 
-
-```plaintext
-### Uso
+## Uso
 Para utilizar o DogConverter, execute o script conforme descrito no arquivo `README.md`. O programa solicitará o formato para o qual deseja converter os arquivos de áudio localizados na pasta de entrada.
-```
 
 > Feito com ❤️ por Dogaix
