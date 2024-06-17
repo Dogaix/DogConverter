@@ -14,9 +14,9 @@
   1. **Python**: Verifique se você possui o Python instalado executando o comando `python --version` no seu terminal.
   2. **Instalação da biblioteca `Pydub`**: Utilize o `pip` para instalar a biblioteca `Pydub`:
 
-     ```bash
-     pip install pydub
-     ```
+  ```bash
+  pip install pydub
+  ```
      
 ## Instalação do ffmpeg:
   - Windows: Baixe o executável do ffmpeg aqui e adicione-o ao seu PATH.
