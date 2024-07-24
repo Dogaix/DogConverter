@@ -5,7 +5,7 @@
   Para usar o DogConverter, certifique-se de ter os seguintes requisitos instalados:
   - Python 3.6 ou superior
   - Biblioteca `Pydub` (instalável via pip)
-  - `ffmpeg` (uma ferramenta externa para manipulação de áudio e vídeo)
+  - `ffmpeg` (uma ferramenta externa para manipulação de áudio e vídeo) encontrada [aqui](https://ffmpeg.org/)
 
 ## Descrição
   O DogConverter utiliza a biblioteca `Pydub` para manipular arquivos de áudio e requer a presença do `ffmpeg` para funcionar corretamente. Ele pode ser utilizado para converter arquivos de áudio de um formato para outro de forma simples e eficaz.
