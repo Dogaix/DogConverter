@@ -31,3 +31,7 @@
 Para utilizar o DogConverter, execute o script conforme descrito no arquivo `README.md`. O programa solicitará o formato para o qual deseja converter os arquivos de áudio localizados na pasta de entrada.
 
 > Feito com ❤️ por Dogaix
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dogaix/DogConverter&type=date&legend=top-left)](https://www.star-history.com/#Dogaix/DogConverter&type=date&legend=top-left)
